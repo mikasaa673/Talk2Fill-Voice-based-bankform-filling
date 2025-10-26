@@ -122,7 +122,11 @@ Voice-assistant-for-form-filling/
 
 
 ## 🎨 Screenshots
-
+![Screenshot](./images/Screenshot%202025-10-26%20171954.png)
+![Picture 1](./images/pic1.jpg)
+![Picture 2](./images/pic2.jpg)
+![Picture 3](./images/pic3.jpg)
+![Screenshot](./images/Screenshot%202025-10-26%20172317.png)
 
 
 
